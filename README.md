@@ -59,7 +59,7 @@
   ...
 </pre>
 
-* Extern Urls:
+* Public Urls provided by Gateway API:
 <pre>
   http://&lt;gateway-api&gt;/api1/&lt;downstream-endpoint&gt;
   http://&lt;gateway-api&gt;/api2/&lt;downstream-endpoint&gt;
