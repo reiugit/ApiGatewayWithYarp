@@ -12,7 +12,7 @@
   app.MapReverseProxy();
 </pre>
 
-* Configuration appsettings.json
+* Sample configuration in appsettings.json
 <pre>
   ...
   "ReverseProxy": {
