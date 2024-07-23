@@ -1,0 +1,6 @@
+@ApiGatewayWithYarp.DownstreamAPI_HostAddress = http://localhost:5052
+
+GET {{ApiGatewayWithYarp.DownstreamAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

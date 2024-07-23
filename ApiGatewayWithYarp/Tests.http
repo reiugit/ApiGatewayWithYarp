@@ -1,0 +1,16 @@
+@HostAddressGw = http://localhost:5000
+
+
+### Gateway to API 1
+
+GET {{HostAddressGw}}/api1/get-data
+Accept: application/json
+
+
+### Gateway to API 2
+
+GET {{HostAddressGw}}/api2/get-data
+Accept: application/json
+
+
+###
