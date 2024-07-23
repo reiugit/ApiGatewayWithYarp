@@ -61,6 +61,6 @@
 
 * Extern Urls:
 <pre>
-  http://<gateway-api>/api1/<downstream-endpoint>
-  http://<gateway-api>/api2/<downstream-endpoint>
+  http://&lt;gateway-api&gt;/api1/&lt;downstream-endpoint&gt;
+  http://&lt;gateway-api&gt;/api2/&lt;downstream-endpoint&gt;
 </pre>
